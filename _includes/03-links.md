@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Captain Dax's LinkedIn Profile https://www.linkedin.com/in/dax-mcdaniel/
