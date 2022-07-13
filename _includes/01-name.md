@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Captain Dax
+# ![dax signature pic](https://user-images.githubusercontent.com/109104545/178822922-20b2605e-d19d-4c1c-b99c-0c1a7710ccca.jpg)
